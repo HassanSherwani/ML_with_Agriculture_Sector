@@ -1,15 +1,11 @@
 # ML_with_Agriculture_Sector
 
-# Aim of excercise 
-
-This is classification problem.
-
  - a)-to predict the plant_id  
  - b)-to predict if the product is marketable or not
  
  # Data
  
- sample of data taken from our agri-database, which contains a number of environmental and plant speciﬁc measurements gathered during some of our experiments. A brief explanation of the columns in the csv ﬁle are: 
+A sample of data taken from our agri-database, which contains a number of environmental and plant speciﬁc measurements gathered during some of our experiments. A brief explanation of the columns in the csv ﬁle are: 
  
 dul: days under light of the plant   
 
